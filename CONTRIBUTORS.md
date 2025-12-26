@@ -49,7 +49,7 @@ This project exists because of your time, effort, and curiosity.
 - **GitHub:** https://github.com/sshekhar563
 - **About:** Third year B.Tech student in Computer Science (AI & ML) with a strong interest in machine learning, computer vision, and open-source development.
 
-- - **Name:** Jatin
+- **Name:** Jatin
 - **GitHub:** https://github.com/thenix09
 - **About:** First-year student at IIIT Allahabad, interested in software engineering and open-source contributions.
 
